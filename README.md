@@ -3,6 +3,7 @@ Link to Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of
 
 # Dataset Information
 * 50,000 movie reviews
+
 review        | sentiment
 ------------- | -------------
 unique values | positive
